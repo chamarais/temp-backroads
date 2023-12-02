@@ -6,7 +6,7 @@ const Hero = () => {
       <div className="hero-banner">
         <h1>Backroads App</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
+          A Sample application to check out react basics on components.
           explicabo debitis est autem dicta.
         </p>
         <a href="#tours" className="btn hero-btn">
